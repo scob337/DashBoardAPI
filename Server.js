@@ -11,7 +11,7 @@ const user = {
   password: "password123",
   email: "scob198350@gmail.com",
   avatar:
-    "https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-1/455138665_1015305426716284_2767636540071642352_n.jpg?stp=dst-jpg_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeHBa_PUKMaurdLrnrvYMbIn-jJ5GA2BVQT6MnkYDYFVBNMXTtvXsdT-TtaSio4dPPX5Myiaq4BmhOjrShhlrNWJ&_nc_ohc=1VIsTbv053gQ7kNvgE4xi3M&_nc_ht=scontent.fcai22-4.fna&oh=00_AYBzxZR76gCtnbLONePAtPqwgnS7O_lBr4gDf5-7VEKrUA&oe=66D01189",
+    "https://scontent.fcai22-4.fna.fbcdn.net/v/t39.30808-1/434458080_941527470760747_3949449511034126485_n.jpg?stp=c72.0.174.173a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeG4qzdk84CZer7j_WiUgr1zhpdmoIaMv_WGl2aghoy_9Z7LdWXNIFsI30HPeS-8ZKm8jNMGrygjmxtgvhfvUSAU&_nc_ohc=czFF1FA1m2cQ7kNvgHN2ZI9&_nc_ht=scontent.fcai22-4.fna&_nc_gid=AImsJVGQ24CU_mcYdvkmX-x&oh=00_AYBG1HxQTdfMSNghhQedd_dGMXbHbJE5MU2futIlLWpXHA&oe=66EB9D08",
 };
 
 const secretKey = "your_secret_key";
